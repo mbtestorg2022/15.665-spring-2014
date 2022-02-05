@@ -91,11 +91,48 @@ In the spirit of experimentation and fun, I challenge those of you who want to p
 Grading Breakdown
 -----------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 5 Reflective memos (8% each) | 40% of final grade |
-| Group paper and presentation proposal | 30% of final grade |
-| Class attendance and participation | 30% of final grade 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 Reflective memos (8% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40% of final grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group paper and presentation proposal
+{{< tdclose >}}
+{{< tdopen >}}
+30% of final grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+30% of final grade
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Confidentiality
 ---------------
